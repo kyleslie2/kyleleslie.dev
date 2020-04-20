@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Kyle Leslie's Personal Website`,
-    description: `The future home of my portfolio and projects!`,
-    author: `@kyleleslie`,
+    title: `KyleLeslie.dev`,
+    description: `Kyle Leslie's personal dev site.`,
+    author: `Kyle Leslie`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -24,7 +24,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/K_639.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
