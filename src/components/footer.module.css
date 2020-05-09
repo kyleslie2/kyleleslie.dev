@@ -3,7 +3,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: gray;
+    background-color: #565656;
     color: white;
     text-align: center;
     height:5rem;
@@ -16,4 +16,8 @@
     text-decoration: none;
     padding-top:1rem;
     margin-bottom: 0;
+}
+
+.text a{
+    color:aliceblue;
 }
