@@ -4,47 +4,48 @@ date: "2020-04-25"
 title: "Gift ideas for Kyle"
 ---
 
-## Gift ideas for Kyle
+<!-- ## Gift ideas for Kyle -->
 Safe purchases and things I always love getting! 
 
 _Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions_ &#128519; 
 
 
 ## &#x1F381; Categories
-> * [*&#129300;* Notable life events](#notable-life-events)
-> * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * [*&#128084;* Clothing](#clothing)
-> * [*&#9749;* Food and Drink](#food-and-drink)
-> * [*&#128092;* Bags](#bags)
-> * [*&#128190;* Tech](#tech)
-> * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
-> * [*&#128176;* Practical](#practical)
-> * [*&#9940;* Things I do not need](#things-i-do-not-need)
 
+>   &#129300; [Notable life events](#notable-life-events)  
+>   &#9989; [Miscellaneous](#miscellaneous)  
+>   &#128084; [Clothing](#clothing)  
+>   &#9749; [Food and Drink](#food-and-drink)  
+>   &#128092; [Bags](#bags)  
+>   &#128190; [Tech](#tech)  
+>   &#128054; [Stuff for Eugene](#stuff-for-eugene)  
+>   &#128176;[Practical](#practical)  
+>   &#9940; [Things I do not need](#things-i-do-not-need)  
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-# &#129300;
-## Notable life events 
-### Things going on in my life that might inspire gift ideas! (*last updated Nov 7th, 2019*)
- - Big trip to London + Scotland (August 2020)
+<!-- # &#129300; -->
+### Notable life events &#129300;
+#### Things going on in my life that might inspire gift ideas! 
+##### last updated May 9, 2020
+ - Big trip to London + Scotland (August 2020).... (or maybe not)
  - New dog
  - Settling into desk job/ web dev/ public servant work
  
-# &#9989;
-## Miscellaneous 
-### Random things currently on my personal "To Buy" list (updated: *February 25, 2020*):
+<!-- # &#9989; -->
+### Miscellaneous &#9989;
+#### Random things currently on my personal "To Buy" list 
+##### last updated: February 25, 2020
 
  - New winter gloves (not too bulky). Need to be able to take out bus pass/ doggy bags and use phone.
  - New raincoat (same as alicia's) todo: <insert link to raincoat>
  - A steamer so I don't have to iron! (I don't know anything about steamers, so I guess just one that's relatively compact??)
- - A nice coffee table! (nice and wide, but not too deep. some storage underneath- will add examples here later)
 
  
-# &#128084;
-## Clothing 
-### Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
+<!-- # &#128084; -->
+### Clothing &#128084;
+#### Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
 
 Criteria:
  - Good fit
@@ -73,9 +74,9 @@ Brands I like:
   - Le 31 (carried by Simons)
     - For sweaters, cardigans and pants
   
-# &#9749;
-## Food and Drink 	
-### Coffee and alcohol are always fun! And no clutter!
+<!-- # &#9749; -->
+### Food and Drink &#9749;
+#### Coffee and alcohol are always fun! And no clutter!
 
 Coffee:
  - Whole beans (not ground)
@@ -95,9 +96,9 @@ Coffee:
   
  
   
-# &#128092;
-## Bags 	
-### I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag &#128523;
+<!-- # &#128092; -->
+### Bags &#128092;	
+#### I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag &#128523;
 
 Criteria:
   - Comfortable strap
@@ -109,9 +110,9 @@ Criteria:
   - [Bellroy](https://bellroy.com/)  
   - [InCase](https://www.incase.com/products/bags)
 
-#  &#128190;
-## Tech
-### Tech gadgets and accessories I would love to get but don't _need_
+<!-- #  &#128190; -->
+### Tech &#128190;
+#### Tech gadgets and accessories I would love to get but don't _need_
   - [Rasperry Pi 4](https://www.buyapi.ca/raspberry-pi-4-information/)
     * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
   - External SSD
@@ -119,9 +120,9 @@ Criteria:
     * anything over 1TB (1000GB) and with usb3 or 3.1 is great!
   - [A Synology NAS](https://www.synology.com/en-global/products/series/home)
   
-# &#128054;
-## Stuff for Eugene 
-### Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
+<!-- # &#128054; -->
+### Stuff for Eugene &#128054;
+#### Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
 
 Toys:
   - Anything squeaky or ball-shaped is a win for him 
@@ -137,9 +138,9 @@ Treats:
 Misc:
   - Clothing (indoor or outdoor), petsmart/ dog store gift-cards 
 
-# &#128176;
-## Practical 
-### Things I can always use but might not buy myself
+<!-- # &#128176; -->
+### Practical &#128176;
+#### Things I can always use but might not buy myself
  
  Beard care:
   - Beard oil (something that smells nice)
@@ -154,7 +155,7 @@ Misc:
   - LCBO
   - Starbucks
 
-# &#9940;
-## Things I do not need 
-### Things that I definitely have plently of:
+<!-- # &#9940; -->
+### Things I do not need &#9940;
+#### Things that I definitely have plently of:
   * Can't think of anything yet  &#128523;

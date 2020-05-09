@@ -9,6 +9,7 @@ exports.createPages = ({
   } = actions
 
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`)
+  const listPostTemplate = path.resolve(`src/templates/listTemplate.js`)
 
   return graphql(`
     {
@@ -35,7 +36,7 @@ exports.createPages = ({
     }) => {
       createPage({
         path: node.frontmatter.path,
-        component: blogPostTemplate,
+        component: listPostTemplate,
         context: {}, // additional data can be passed via context
       })
     })
