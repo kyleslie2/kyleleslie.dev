@@ -1,0 +1,19 @@
+.footer{
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    height:5rem;
+    /* padding-top:1rem; */
+
+}
+
+.text{
+    color: white;
+    text-decoration: none;
+    padding-top:1rem;
+    margin-bottom: 0;
+}
