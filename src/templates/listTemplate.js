@@ -10,11 +10,12 @@ export default function ListTemplate({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-    <SEO title="Gifts" />
+    <SEO title={frontmatter.topic} />
       <div className="blog-post-container">
         <div className="blog-post">
           <h1>{frontmatter.title}</h1>
-          <h2>Updated on: {frontmatter.date}</h2>
+          <p><strong>{frontmatter.description}</strong><br></br>
+          Last updated: <i>{frontmatter.date}</i></p>
           <div
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
@@ -34,6 +35,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        topic
+        description
       }
     }
   }
