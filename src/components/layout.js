@@ -37,7 +37,6 @@ const Layout = ({ children }) => {
           maxWidth: 960,
           padding: `0 1.0875rem 1.45rem`,
           minHeight: `100vh`,
-          position: `relative`,
         }}
       >
         <main>{children}</main>
