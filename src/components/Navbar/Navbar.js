@@ -8,7 +8,7 @@ import Logo from "./Logo"
 const Navigation = styled.nav`
   height: 10vh;
   display: flex;
-  background-color: #fff;
+  background-color: #639; //navbar colour
   position: relative;
   justify-content: space-between;
   text-transform: uppercase;
@@ -59,7 +59,7 @@ const Navbox = styled.div`
 `
 
 const Hamburger = styled.div`
-  background-color: #111;
+  background-color: #fff; //middle burger
   width: 30px;
   height: 3px;
   transition: all .3s linear;
@@ -71,7 +71,7 @@ const Hamburger = styled.div`
   ::after {
     width: 30px;
     height: 3px;
-    background-color: #111;
+    background-color: #fff; //top and bottom burgers
     content: "";
     position: absolute;
     transition: all 0.3s linear;

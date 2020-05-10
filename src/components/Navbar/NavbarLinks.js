@@ -6,7 +6,7 @@ import { Link } from "gatsby"
 
 const NavItem = styled(Link)`
   text-decoration: none;
-  color: #111;
+  color: #fff; //text in navbar
   display: inline-block;
   white-space: nowrap;
   margin: 0 1vw;
@@ -37,6 +37,8 @@ const NavItem = styled(Link)`
     padding: 20px 0;
     font-size: 1.5rem;
     z-index: 6;
+    color: #111; //text in navbar
+
   }
 `
 const NavbarLinks = () => {
