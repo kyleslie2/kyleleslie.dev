@@ -1,9 +1,25 @@
 // Navbar.js
+import { Link } from "gatsby"
+import PropTypes from "prop-types"
 
 import React, { useState } from "react"
 import styled from "styled-components"
 import NavbarLinks from "./NavbarLinks"
-import Logo from "./Logo"
+
+// import Logo from "./Logo"
+
+
+
+const Header = styled.header`
+  height: 4rem;
+  margin: 0 0 1.45rem;
+
+`
+// const HeaderDiv = styled.div`
+//     margin: 0 0 4rem 0;
+//     maxWidth: 960px;
+//     padding: 1rem 1rem;
+// `
 
 const Navigation = styled.nav`
   height: 10vh;
@@ -11,12 +27,13 @@ const Navigation = styled.nav`
   background-color: #639; //navbar colour
   position: relative;
   justify-content: space-between;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   border-bottom: 2px solid #33333320;
-  margin: 0 auto;
-  padding: 0 5vw;
+  margin: 0 auto 0 auto;
+  padding: 0 5vw 0 0;
   z-index: 2;
-  align-self: center;
+  align-self: left;
+  // max-width: 960px;
 
   @media (max-width: 768px) {
     position: sticky;
@@ -25,6 +42,16 @@ const Navigation = styled.nav`
     left: 0;
     right: 0;
     left: 0;
+  }
+`
+
+const H1wrap = styled.div `
+  margin: auto 0; //TODO: use flexbox to display h1 properly
+  padding: 1.5vh 1vh 1vh 3vw;
+  flex: 0 1 36px;
+
+  @media(max-width: 960px) and (orientation: landscape) {
+    flex: 0 1 25px;
   }
 `
 
@@ -89,12 +116,26 @@ const Hamburger = styled.div`
     top: 10px;
   }
 `
-const Navbar = () => {
+const Navbar = ({ siteTitle }) => {
   const [navbarOpen, setNavbarOpen] = useState(false)
 
   return (
+    <Header>
     <Navigation>
-      <Logo />
+       {/* <div style={{maxWidth: 960, }}> */}
+    <H1wrap>
+      <h1>
+        <Link to="/" style={{
+            color: `white`,
+            textDecoration: `none`,
+            margin: `0 auto`,
+          }}
+        >
+          {siteTitle}
+        </Link>
+        </h1>
+      </H1wrap>
+   
       <Toggle
         navbarOpen={navbarOpen}
         onClick={() => setNavbarOpen(!navbarOpen)}
@@ -110,8 +151,18 @@ const Navbar = () => {
           <NavbarLinks />
         </Navbox>
       )}
+      {/* </div> */}
     </Navigation>
+    </Header>
   )
+}
+
+Navbar.propTypes = {
+  siteTitle: PropTypes.string,
+}
+
+Navbar.defaultProps = {
+  siteTitle: ``,
 }
 
 export default Navbar
