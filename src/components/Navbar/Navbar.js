@@ -131,7 +131,7 @@ const Navbar = ({ siteTitle }) => {
             margin: `0 auto`,
           }}
         >
-          {siteTitle}
+          {"K"}
         </Link>
         </h1>
       </H1wrap>
