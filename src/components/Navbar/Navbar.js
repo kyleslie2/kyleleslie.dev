@@ -9,31 +9,29 @@ import NavbarLinks from "./NavbarLinks"
 // import Logo from "./Logo"
 
 
-
 const Header = styled.header`
   height: 4rem;
-  margin: 0 0 1.45rem;
+  margin: 0 0 2vh 0; //top, right, bottom, left
+
+//original
+//  height: 4rem;
+//   margin: 0 0 1.45rem;
 
 `
-// const HeaderDiv = styled.div`
-//     margin: 0 0 4rem 0;
-//     maxWidth: 960px;
-//     padding: 1rem 1rem;
-// `
+
 
 const Navigation = styled.nav`
   height: 10vh;
   display: flex;
-  background-color: #639; //navbar colour
+  // background-color: #639; //navbar colour
+  background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
   position: relative;
   justify-content: space-between;
-  // text-transform: uppercase;
   border-bottom: 2px solid #33333320;
   margin: 0 auto 0 auto;
   padding: 0 5vw 0 0;
   z-index: 2;
   align-self: left;
-  // max-width: 960px;
 
   @media (max-width: 768px) {
     position: sticky;
@@ -43,16 +41,64 @@ const Navigation = styled.nav`
     right: 0;
     left: 0;
   }
+
+//Experimental:
+  // height: 8vh;
+  // display: flex;
+  // background-color: #639; //navbar colour
+  // background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+  // position: relative;
+  // border-bottom: 2px solid #33333320;
+  // z-index: 2;
+  // // justify-content: space-between;
+  // // text-transform: uppercase;
+  // // margin: 0 auto 0 auto;
+  // // padding: 0 0 0 0;
+  // // align-self: centre;
+  // // max-width: 960px;
+
+  // @media (max-width: 768px) {
+  //   position: sticky;
+  //   height: 8vh;
+  //   top: 0;
+  //   left: 0;
+  //   right: 0;
+  //   left: 0;
+  // }
 `
 
-const H1wrap = styled.div `
-  margin: auto 0; //TODO: use flexbox to display h1 properly
-  padding: 1.5vh 1vh 1vh 3vw;
-  flex: 0 1 36px;
+//Experimental:
+// const Container = styled.div `
+//   max-width: 960px;
+//   margin: 0 auto;
+//   // margin: 0 10vw;
+  
+//   padding: 1rem 1rem;
+//   display: inline-flex;
+//   flex-wrap: nowrap;
+//   flex-direction: row;
+//   justify-content: space-between;
+//   align-items: left;
 
-  @media(max-width: 960px) and (orientation: landscape) {
-    flex: 0 1 25px;
+// `
+
+const Logo = styled.div `
+  margin: auto 0; //TODO: use flexbox to display h1 properly
+  padding: 2vh 1vw 40vh 3vw; //top, right, bottom, left
+  flex: 0 1 36px;
+  
+  @media(max-width: 768px) and (orientation: landscape) {
+    flex: 0 1 10px;
+    padding: 0vh 1vw 2vh 3vw;
   }
+
+//Experimental:
+  // display:flex;
+  // margin: 0 0;
+
+  // @media(max-width: 768px) and (orientation: landscape) {
+  //   flex: 0 1;
+  // }
 `
 
 const Toggle = styled.div`
@@ -68,8 +114,8 @@ const Toggle = styled.div`
 
 const Navbox = styled.div`
   display: flex;
+  margin-left: auto;
   height: 100%;
-  justify-content: flex-end;
   align-items: center;
 
   @media (max-width: 768px) {
@@ -122,37 +168,38 @@ const Navbar = ({ siteTitle }) => {
   return (
     <Header>
     <Navigation>
-       {/* <div style={{maxWidth: 960, }}> */}
-    <H1wrap>
-      <h1>
-        <Link to="/" style={{
-            color: `white`,
-            textDecoration: `none`,
-            margin: `0 auto`,
-          }}
+      {/* <Container> */}
+        <Logo>
+          <h1>
+            <Link to="/" style={{
+                color: `white`,
+                textDecoration: `none`,
+                padding:`0px 4px 0px 4px`,
+                border: `1px solid white`,
+                MozBorderRadius: `3px`,
+              }}
+              >
+              {"KL"}
+            </Link>
+          </h1>
+        </Logo>
+        <Toggle
+          navbarOpen={navbarOpen}
+          onClick={() => setNavbarOpen(!navbarOpen)}
         >
-          {"K"}
-        </Link>
-        </h1>
-      </H1wrap>
-   
-      <Toggle
-        navbarOpen={navbarOpen}
-        onClick={() => setNavbarOpen(!navbarOpen)}
-      >
-        {navbarOpen ? <Hamburger open /> : <Hamburger />}
-      </Toggle>
-      {navbarOpen ? (
-        <Navbox>
-          <NavbarLinks />
-        </Navbox>
-      ) : (
-        <Navbox open>
-          <NavbarLinks />
-        </Navbox>
-      )}
-      {/* </div> */}
-    </Navigation>
+          {navbarOpen ? <Hamburger open /> : <Hamburger />}
+        </Toggle>
+        {navbarOpen ? (
+          <Navbox>
+            <NavbarLinks />
+          </Navbox>
+        ) : (
+          <Navbox open>
+            <NavbarLinks />
+          </Navbox>
+        )}
+      {/* </Container> */}
+      </Navigation>
     </Header>
   )
 }
