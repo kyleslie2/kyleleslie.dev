@@ -13,10 +13,6 @@ const Header = styled.header`
   height: 4rem;
   margin: 0 0 2vh 0; //top, right, bottom, left
 
-//original
-//  height: 4rem;
-//   margin: 0 0 1.45rem;
-
 `
 
 
@@ -41,64 +37,19 @@ const Navigation = styled.nav`
     right: 0;
     left: 0;
   }
-
-//Experimental:
-  // height: 8vh;
-  // display: flex;
-  // background-color: #639; //navbar colour
-  // background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
-  // position: relative;
-  // border-bottom: 2px solid #33333320;
-  // z-index: 2;
-  // // justify-content: space-between;
-  // // text-transform: uppercase;
-  // // margin: 0 auto 0 auto;
-  // // padding: 0 0 0 0;
-  // // align-self: centre;
-  // // max-width: 960px;
-
-  // @media (max-width: 768px) {
-  //   position: sticky;
-  //   height: 8vh;
-  //   top: 0;
-  //   left: 0;
-  //   right: 0;
-  //   left: 0;
-  // }
 `
-
-//Experimental:
-// const Container = styled.div `
-//   max-width: 960px;
-//   margin: 0 auto;
-//   // margin: 0 10vw;
-  
-//   padding: 1rem 1rem;
-//   display: inline-flex;
-//   flex-wrap: nowrap;
-//   flex-direction: row;
-//   justify-content: space-between;
-//   align-items: left;
-
-// `
 
 const Logo = styled.div `
   margin: auto 0; //TODO: use flexbox to display h1 properly
   padding: 2vh 1vw 40vh 3vw; //top, right, bottom, left
   flex: 0 1 36px;
   
-  @media(max-width: 768px) and (orientation: landscape) {
+  // @media(max-width: 768px) and (orientation: landscape) {
+  @media(max-width: 768px) {
     flex: 0 1 10px;
-    padding: 0vh 1vw 2vh 3vw;
+    padding: 1vh 1vw 2vh 3vw;
   }
 
-//Experimental:
-  // display:flex;
-  // margin: 0 0;
-
-  // @media(max-width: 768px) and (orientation: landscape) {
-  //   flex: 0 1;
-  // }
 `
 
 const Toggle = styled.div`
@@ -168,15 +119,14 @@ const Navbar = ({ siteTitle }) => {
   return (
     <Header>
     <Navigation>
-      {/* <Container> */}
         <Logo>
           <h1>
             <Link to="/" style={{
                 color: `white`,
                 textDecoration: `none`,
                 padding:`0px 4px 0px 4px`,
-                border: `1px solid white`,
-                MozBorderRadius: `3px`,
+                border: `2px solid white`,
+                borderRadius: `3px`,
               }}
               >
               {"KL"}
@@ -198,7 +148,6 @@ const Navbar = ({ siteTitle }) => {
             <NavbarLinks />
           </Navbox>
         )}
-      {/* </Container> */}
       </Navigation>
     </Header>
   )
