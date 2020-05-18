@@ -15,9 +15,9 @@ const Header = styled.header`
 
 `
 
-
 const Navigation = styled.nav`
-  height: 10vh;
+  // height: 10vh; //good but tiny on high dpi mobile
+  height: 3.5em;
   display: flex;
   // background-color: #639; //navbar colour
   background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
@@ -29,7 +29,7 @@ const Navigation = styled.nav`
   z-index: 2;
   align-self: left;
 
-  @media (max-width: 768px) {
+  @media(max-width: 768px) {
     position: sticky;
     height: 8vh;
     top: 0;
@@ -37,17 +37,43 @@ const Navigation = styled.nav`
     right: 0;
     left: 0;
   }
+
+  @media(max-width: 768px) and (orientation: landscape) {
+    position: sticky;
+    // height: 10vh;
+    height:3rem;
+    top: 0;
+    left: 0;
+    right: 0;
+    left: 0;
+}
 `
 
 const Logo = styled.div `
-  margin: auto 0; //TODO: use flexbox to display h1 properly
-  padding: 2vh 1vw 40vh 3vw; //top, right, bottom, left
-  flex: 0 1 36px;
+  margin: auto 0;
+  padding: 0.7rem 1vw 40vh 3vw; //top, right, bottom, left
+  flex: 0 1 10rem;
+  #logo{
+    font-size:2em;
+  }
   
-  // @media(max-width: 768px) and (orientation: landscape) {
-  @media(max-width: 768px) {
+  @media(max-width: 768px) and (orientation: landscape) {
     flex: 0 1 10px;
-    padding: 1vh 1vw 2vh 3vw;
+    padding: 0.5rem 1vw 2vh 3vw;
+
+    #logo{
+      font-size:2rem;
+    }
+  }
+
+  @media(max-width: 768px) and (orientation: portrait){
+      flex: 0 1 10px;
+      padding: 1vh 1vw 2vh 3vw;
+      margin 1vh 0;
+
+    #logo{
+      font-size:4vh;
+    }
   }
 
 `
@@ -120,13 +146,14 @@ const Navbar = ({ siteTitle }) => {
     <Header>
     <Navigation>
         <Logo>
-          <h1>
+          <h1 id="logo">
             <Link to="/" style={{
                 color: `white`,
                 textDecoration: `none`,
                 padding:`0px 4px 0px 4px`,
                 border: `2px solid white`,
                 borderRadius: `3px`,
+                height:`100%`,
               }}
               >
               {"KL"}

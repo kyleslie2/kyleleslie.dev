@@ -1,3 +1,12 @@
+# TODO:
+- fix navbar height horizontally on mobile
+- portfolio section
+- main blog page
+- main lists page
+- uses page
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
