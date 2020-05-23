@@ -6,8 +6,6 @@ import React, { useState } from "react"
 import styled from "styled-components"
 import NavbarLinks from "./NavbarLinks"
 
-// import Logo from "./Logo"
-
 
 const Header = styled.header`
   height: 4rem;
@@ -24,14 +22,15 @@ const Navigation = styled.nav`
   position: relative;
   justify-content: space-between;
   border-bottom: 2px solid #33333320;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 2vh auto;
   padding: 0 5vw 0 0;
   z-index: 2;
   align-self: left;
 
   @media(max-width: 768px) {
     position: sticky;
-    height: 8vh;
+    // height: 8vh;
+    height:3.5rem;
     top: 0;
     left: 0;
     right: 0;
@@ -41,7 +40,7 @@ const Navigation = styled.nav`
   @media(max-width: 768px) and (orientation: landscape) {
     position: sticky;
     // height: 10vh;
-    height:3rem;
+    height:3.5rem;
     top: 0;
     left: 0;
     right: 0;
@@ -103,7 +102,8 @@ const Navbox = styled.div`
     padding-top: 10vh;
     background-color: #fff;
     transition: all 0.3s ease-in;
-    top: 8vh;
+    // top: 8vh; //original
+    top: 3.5rem;
     left: ${props => (props.open ? "-100%" : "0")};
   }
 `
@@ -143,7 +143,7 @@ const Navbar = ({ siteTitle }) => {
   const [navbarOpen, setNavbarOpen] = useState(false)
 
   return (
-    <Header>
+    // <Header>
     <Navigation>
         <Logo>
           <h1 id="logo">
@@ -176,7 +176,7 @@ const Navbar = ({ siteTitle }) => {
           </Navbox>
         )}
       </Navigation>
-    </Header>
+    // </Header>
   )
 }
 

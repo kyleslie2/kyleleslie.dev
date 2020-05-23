@@ -1,9 +1,12 @@
 # TODO:
-- fix navbar height horizontally on mobile
+- keep navbar on top at all times. (shirk and shadow or no?)
+- keep background stationary while navmenu is up
+
 - portfolio section
 - main blog page
 - main lists page
 - uses page
+- movie app/ list
 
 
 
