@@ -7,12 +7,6 @@ import styled from "styled-components"
 import NavbarLinks from "./NavbarLinks"
 
 
-const Header = styled.header`
-  height: 4rem;
-  margin: 0 0 2vh 0; //top, right, bottom, left
-
-`
-
 const Navigation = styled.nav`
   // height: 10vh; //good but tiny on high dpi mobile
   height: 3.5em;
@@ -22,7 +16,7 @@ const Navigation = styled.nav`
   position: relative;
   justify-content: space-between;
   border-bottom: 2px solid #33333320;
-  margin: 0 auto 2vh auto;
+  margin: 0 auto 3vh auto;
   padding: 0 5vw 0 0;
   z-index: 2;
   align-self: left;

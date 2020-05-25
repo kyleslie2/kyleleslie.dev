@@ -1,6 +1,5 @@
 # TODO:
-- keep navbar on top at all times. (shirk and shadow or no?)
-- keep background stationary while navmenu is up
+- keep navbar on top at all times for desktop view? (shirk and shadow or no?)
 
 - portfolio section
 - main blog page
