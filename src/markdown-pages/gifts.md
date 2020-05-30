@@ -5,6 +5,7 @@ title: "Gift ideas for Kyle"
 topic: "Gifts"
 description: "Safe purchases and things I always love getting!"
 ---
+# &#x1F381; &#129300; &#9989; &#128084; &#9749; &#128092; &#128190; &#128054; &#128176;  &#9940;
 
 **Disclaimer:** This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions &#128519; 
 

@@ -51,7 +51,8 @@ const Logo = styled.div `
   }
   
   @media(max-width: 768px) and (orientation: landscape) {
-    flex: 0 1 10px;
+    // flex: 0 1 10px;
+    flex: 0 1 2rem;
     padding: 0.5rem 1vw 2vh 3vw;
 
     #logo{
@@ -60,12 +61,13 @@ const Logo = styled.div `
   }
 
   @media(max-width: 768px) and (orientation: portrait){
-      flex: 0 1 10px;
+      // flex: 0 1 10px;
+      flex: 0 1 2rem;
       padding: 1vh 1vw 2vh 3vw;
       margin 1vh 0;
 
     #logo{
-      font-size:4vh;
+      font-size:1.8rem;
     }
   }
 
