@@ -12,7 +12,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>My personal dev site</h1>
     <p>More coming soon!</p>
-    < Link to = "/giftideas/" > Go to my first markdown page </Link>
+    <Link to ="/giftideas/"> Go to my first markdown page </Link>
 
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />

@@ -5,7 +5,7 @@ title: "Everything I use"
 topic: "Uses"
 description: "Central list of all the software and stuff I think is great"
 posttype: "blog"
-tags: ["technology","personal","links","recommendations"]
+tags: [technology,links,personal,recommendations]
 ---
 # 🧰💻📺🎧📚📲📂🖥📡
 

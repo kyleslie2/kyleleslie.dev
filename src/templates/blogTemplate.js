@@ -10,11 +10,12 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-    <SEO title="Gifts" />
+    <SEO title={frontmatter.topic} />
       <div className="blog-post-container">
         <div className="blog-post">
           <h1>{frontmatter.title}</h1>
-          <h2>{frontmatter.date}</h2>
+          <p><strong>{frontmatter.description}</strong><br></br>
+          Last updated: <i>{frontmatter.date}</i></p>
           <div
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
@@ -26,7 +27,7 @@ export default function Template({
   )
 }
 
-export const pageQuery = graphql`
+export const pageQuery = graphql `
   query($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
@@ -34,6 +35,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        topic
+        description
+        tags
       }
     }
   }

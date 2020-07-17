@@ -1,21 +1,17 @@
-const path = require(`path`)
+const path = require("path")
+const _ = require("lodash")
 
-exports.createPages = ({
-  actions,
-  graphql
-}) => {
-  const {
-    createPage
-  } = actions
+exports.createPages = async ({ actions, graphql, reporter }) => {
+  const { createPage } = actions
 
-  // const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`)
-  const listPostTemplate = path.resolve(`src/templates/listTemplate.js`)
+  const blogPostTemplate = path.resolve("src/templates/blogTemplate.js")
+  const tagTemplate = path.resolve("src/templates/tagsTemplate.js")
 
-  return graphql(`
+  const result = await graphql(`
     {
-      allMarkdownRemark(
+      postsRemark: allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
+        limit: 2000
       ) {
         edges {
           node {
@@ -25,20 +21,41 @@ exports.createPages = ({
           }
         }
       }
+      tagsGroup: allMarkdownRemark(limit: 2000) {
+        group(field: frontmatter___tags) {
+          fieldValue
+        }
+      }
     }
-  `).then(result => {
-    if (result.errors) {
-      return Promise.reject(result.errors)
-    }
+  `)
 
-    return result.data.allMarkdownRemark.edges.forEach(({
-      node
-    }) => {
-      createPage({
-        path: node.frontmatter.path,
-        component: listPostTemplate,
-        context: {}, // additional data can be passed via context
-      })
+  // handle errors
+  if (result.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`)
+    return
+  }
+
+  const posts = result.data.postsRemark.edges
+
+  // Create post detail pages
+  posts.forEach(({ node }) => {
+    createPage({
+      path: node.frontmatter.path,
+      component: blogPostTemplate,
+    })
+  })
+
+  // Extract tag data from query
+  const tags = result.data.tagsGroup.group
+
+  // Make tag pages
+  tags.forEach(tag => {
+    createPage({
+      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
     })
   })
 }

@@ -2,14 +2,14 @@
 
 Get blog landing page with tags
 - lists, recommendations, TIL, projects, personal, portfolio, workflow
+- add google analytics
+
 
 maybe?:
 - keep navbar on top at all times for desktop view? (shirk and shadow or no?)
-- portfolio section
-- main blog page
-- main lists page
-- uses page
-- movie app/ list
+- portfolio page/ component/ section
+- main blog page + blog preview component for main page
+- movie + tv + apps list
 
 
 
