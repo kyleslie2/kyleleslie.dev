@@ -1,6 +1,10 @@
 # TODO:
-- keep navbar on top at all times for desktop view? (shirk and shadow or no?)
 
+Get blog landing page with tags
+- lists, recommendations, TIL, projects, personal, portfolio, workflow
+
+maybe?:
+- keep navbar on top at all times for desktop view? (shirk and shadow or no?)
 - portfolio section
 - main blog page
 - main lists page
