@@ -139,7 +139,6 @@ const Navbar = ({ siteTitle }) => {
   const [navbarOpen, setNavbarOpen] = useState(false)
 
   return (
-    // <Header>
     <Navigation>
         <Logo>
           <h1 id="logo">
@@ -172,7 +171,6 @@ const Navbar = ({ siteTitle }) => {
           </Navbox>
         )}
       </Navigation>
-    // </Header>
   )
 }
 
