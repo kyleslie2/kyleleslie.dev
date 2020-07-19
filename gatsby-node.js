@@ -44,12 +44,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       component: blogPostTemplate,
     })
   })
-//  posts.forEach(({ node }) => {
-//     createPage({
-//       path: node.frontmatter.path,
-//       component: blogPostTemplate,
-//     })
-//   })
 
   
   // Extract tag data from query

@@ -3,21 +3,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PostLink from "../components/post-link"
-
-
-// const Blog = () => (
-//   <Layout>
-//     < SEO title = "Blog" / >
-//       <h1>Blog Page</h1>
-//       <p>Blog posts will be displayed here!</p>
-//       <p>I'm organizing my posts with <Link to ="/tags/">tags</Link></p>
-//       <FullList/>
-//     </Layout>
-// )
-
-// export default Blog
-
-
+import Tags from "../components/tags-list"
 
 const BlogList = ({
   data: {
@@ -33,6 +19,7 @@ const BlogList = ({
       <SEO title="Blog" />
       <h1>Blog Posts</h1>
       <Link to ="/tags/">Tags</Link>
+      <Tags/>
       
       <div style={{ marginTop: `1.45rem` }}>{Posts}</div>
     </Layout>
