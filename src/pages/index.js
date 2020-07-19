@@ -12,8 +12,10 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>My personal dev site</h1>
     <p>More coming soon!</p>
-    <Link to ="/giftideas/"> Go to my first markdown page </Link>
-
+    <p> Go to my rough, but functional < Link to = "/blog/" > blog page! </Link></p >
+    <p> I've started organizing my pages with < Link to = "/tags/" > tags too! </Link></p >
+    
+    
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>

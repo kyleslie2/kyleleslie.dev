@@ -5,6 +5,8 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+//Could just import tags-list component here. Would be a staticquery instead of pagequery though (might not matter)
+
 const TagsPage = ({
   data: {
     allMarkdownRemark: {

@@ -24,7 +24,7 @@ const Tags = () => {
     }
   `);
 
-  const { title } = data.site.siteMetadata;
+  // const { title } = data.site.siteMetadata;
   const { group } = data.allMarkdownRemark;
 
   return (
