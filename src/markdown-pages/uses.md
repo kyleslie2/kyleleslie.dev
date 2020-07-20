@@ -8,7 +8,7 @@ featuredImage: ../images/uses/uses.png
 posttype: "blog"
 tags: [technology,links,personal,recommendations]
 ---
-# 🧰💻📺🎧📚📲📂🖥📡
+**Note:**_This post is incomplete_
 
 ## 📚 Categories
 

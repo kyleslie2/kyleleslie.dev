@@ -18,6 +18,7 @@ const BlogList = ({
     <Layout>
       <SEO title="Blog" />
       <h1>Blog Posts</h1>
+      <p>Please excuse the brutal minimalism- this page hasn't been styled yet. Getting the functionality right first.</p>
       <Link to ="/tags/">Tags</Link>
       <Tags/>
       

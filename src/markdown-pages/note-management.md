@@ -8,6 +8,7 @@ featuredImage: ../images/note-management/note-management.png
 posttype: "blog"
 tags: [technology, personal, links, recommendations, workflow]
 ---
+**Note:**_This post is incomplete_
 
 ### Things that are important to me:
 - Open-source and no vendor lock-in (so if a company dies it doesn't mess me up)

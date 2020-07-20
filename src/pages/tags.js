@@ -21,6 +21,7 @@ const TagsPage = ({
         < SEO title = "Tags" / >
         <h1>Tags Page</h1>
         <p>Here is a list of all the blog tags!</p>
+        <p>Please excuse the brutal minimalism- this page hasn't been styled yet. Getting the functionality right first</p>
         <div>
       <ul>
         {group.map(tag => (
