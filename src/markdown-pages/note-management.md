@@ -4,8 +4,9 @@ date: "2020-07-17"
 title: "My Note-Management Solution"
 topic: "Note Management"
 description: "How I manage my notes/ my knowledge-base and keep it all synced, backed-up and (mostly) open-source!"
+featuredImage: ../images/note-management/note-management.png
 posttype: "blog"
-tags: [technology, personal, links, recommendations]
+tags: [technology, personal, links, recommendations, workflow]
 ---
 
 ### Things that are important to me:

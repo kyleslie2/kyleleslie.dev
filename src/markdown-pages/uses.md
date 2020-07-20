@@ -4,6 +4,7 @@ date: "2020-05-23"
 title: "Everything I use"
 topic: "Uses"
 description: "Central list of all the software and stuff I think is great"
+featuredImage: ../images/uses/uses.png
 posttype: "blog"
 tags: [technology,links,personal,recommendations]
 ---

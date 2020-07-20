@@ -4,6 +4,7 @@ date: "2020-05-09"
 title: "Gift ideas for Kyle"
 topic: "Gifts"
 description: "Safe purchases and things I always love getting!"
+featuredImage: ../images/gifts/gifts.png
 tags: [personal, list, reference]
 ---
 # &#x1F381; &#129300; &#9989; &#128084; &#9749; &#128092; &#128190; &#128054; &#128176;  &#9940;
