@@ -2,16 +2,11 @@ import React from "react"
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 
+// const tags = post.frontmatter.tags
+
 
 const PostLink = ({ post }) => (
-  // <div>
-  //   <Link to={post.frontmatter.path}>
-  //     {post.frontmatter.title} ({post.frontmatter.date})
-  //   </Link>
-  // </div>
-
     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-          {/* <img class="w-full" src="../images/gifts/gifts.png" alt="Sunset in the mountains"/> */}
           <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">

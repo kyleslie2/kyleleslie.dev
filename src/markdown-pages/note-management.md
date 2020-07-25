@@ -6,7 +6,7 @@ topic: "Note Management"
 description: "How I manage my notes/ my knowledge-base and keep it all synced, backed-up and (mostly) open-source!"
 featuredImage: ../images/note-management/note-management.png
 posttype: "blog"
-tags: [technology, personal, links, recommendations, workflow]
+tags: [reference, recommendations, workflow]
 ---
 **Note:**_This post is incomplete_
 

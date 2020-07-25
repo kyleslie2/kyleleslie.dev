@@ -1,5 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
+import Img from "gatsby-image"
+
 
 // Components
 import { Link, graphql } from "gatsby"
@@ -24,7 +26,25 @@ const Tags = ({ pageContext, data }) => {
           const { title } = node.frontmatter
           return (
             <li key={path}>
-              <Link to={path}>{title}</Link>
+
+        <div class="max-w-sm rounded overflow-hidden shadow-lg">
+          <Img fluid={node.frontmatter.featuredImage.childImageSharp.fluid} />
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">
+              <Link to={path}>
+                {title}
+              </Link>
+            </div>
+            <p class="text-gray-700 text-base">
+              {node.frontmatter.description}
+            </p>
+          </div>
+          <div class="px-6 py-4">
+            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#photography</span>
+            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">#travel</span>
+            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">#winter</span>
+          </div>
+        </div>
             </li>
           )
         })}
@@ -73,8 +93,19 @@ export const pageQuery = graphql`
       edges {
         node {
           frontmatter {
-            title
+            date(formatString: "MMMM DD, YYYY")
             path
+            title
+            topic
+            description
+            tags
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }

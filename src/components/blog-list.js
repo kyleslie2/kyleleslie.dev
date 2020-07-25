@@ -44,7 +44,7 @@ const BlogPosts = () => {
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
   return (
-        <div style={{ marginTop: `1.45rem`, position: `inline-block` }}>{Posts}</div>
+        <div style={{ marginTop: `1.45rem` }}>{Posts}</div>
   )
 };
 
