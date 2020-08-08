@@ -1,9 +1,11 @@
 import React from "react"
 import PropTypes from "prop-types"
-import kebabCase from "lodash/kebabCase"
-import { Link, graphql } from "gatsby"
+// import kebabCase from "lodash/kebabCase"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Tags from "../components/tags-list"
+
 
 //Could just import tags-list component here. Would be a staticquery instead of pagequery though (might not matter)
 
@@ -22,7 +24,8 @@ const TagsPage = ({
         <h1>Tags Page</h1>
         <p>Here is a list of all the blog tags!</p>
         <p>Please excuse the brutal minimalism- this page hasn't been styled yet. Getting the functionality right first</p>
-        <div>
+        <Tags/>
+        {/* <div>
       <ul>
         {group.map(tag => (
           <li key={tag.fieldValue}>
@@ -32,7 +35,7 @@ const TagsPage = ({
           </li>
         ))}
       </ul>
-    </div>
+    </div> */}
     </Layout>
 )
 
