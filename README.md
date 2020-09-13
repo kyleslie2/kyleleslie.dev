@@ -1,19 +1,3 @@
-# TODO:
-
-Get blog landing page with tags
-- lists, recommendations, TIL, projects, personal, portfolio, workflow
-- add google analytics
-- make entire blog preview clickable link (not just title)
-
-
-maybe?:
-- keep navbar on top at all times for desktop view? (shirk and shadow or no?)
-- portfolio page/ component/ section
-- main blog page + blog preview component for main page
-- movie + tv + apps list
-
-
-
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
