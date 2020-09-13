@@ -3,6 +3,7 @@
 Get blog landing page with tags
 - lists, recommendations, TIL, projects, personal, portfolio, workflow
 - add google analytics
+- make entire blog preview clickable link (not just title)
 
 
 maybe?:

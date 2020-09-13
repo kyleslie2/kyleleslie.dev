@@ -18,7 +18,9 @@ const BlogList = ({
     <Layout>
       <SEO title="Blog" />
       <h1>Blog Posts</h1>
-      <p>Please excuse the brutal minimalism- this page hasn't been styled yet. Getting the functionality right first.</p>
+      <div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-2" role="alert">
+        <p class = "text-sm" > Please excuse the brutal minimalism - this page hasn 't been styled yet. Getting the functionality right first.</p>
+      </div>
       <Link to ="/tags/">Tags</Link>
       <Tags/>
       

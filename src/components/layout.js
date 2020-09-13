@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
     <>
     <Navbar siteTitle={data.site.siteMetadata.title}/>
       {/* Notification banner */}
-      <Link to="/uses/">
+      <Link to="/mysite/">
         <div class="flex mb-8 bg-indigo-800 text-center items-center py-0 w-full lg:px-0 lg:w-full">
           <div class="m-auto p-2 items-center text-indigo-100 leading-none flex" role="alert">
             <span class="flex rounded-full bg-indigo-500 uppercase px-2 py-1 text-xs font-bold mr-3">Note</span>
