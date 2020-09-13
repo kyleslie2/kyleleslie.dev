@@ -16,7 +16,7 @@ const Navigation = styled.nav`
   position: relative;
   justify-content: space-between;
   border-bottom: 2px solid #33333320;
-  margin: 0 auto 3vh auto;
+  margin: 0 auto 0vh auto;
   padding: 0 5vw 0 0;
   z-index: 2;
   align-self: left;
