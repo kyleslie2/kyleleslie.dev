@@ -23,7 +23,9 @@ const TagsPage = ({
         < SEO title = "Tags" / >
         <h1>Tags Page</h1>
         <p>Here is a list of all the blog tags!</p>
-        <p>Please excuse the brutal minimalism- this page hasn't been styled yet. Getting the functionality right first</p>
+        <div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-2" role="alert">
+          <p class = "text-sm" > Please excuse the brutal minimalism - this page hasn 't been styled yet. Getting the functionality right first.</p>
+        </div>        
         <Tags/>
         {/* <div>
       <ul>

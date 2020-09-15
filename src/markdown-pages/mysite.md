@@ -3,20 +3,23 @@ path: "/mysite"
 date: "2020-09-13"
 title: "My website"
 topic: "This website"
-description: "My goals, progress and accomplishments for this website."
+description: "My goals, progress, and achievements for this website."
 featuredImage: ../images/mysite/mysite.png
 posttype: "blog"
 tags: [webdev, update, website]
 ---
-**Note:**_This post is incomplete_
 
 ### Why I made this website:
-I wanted a place to dump some info, make things publicly available and experiment with new web frameworks!
+This site is based on 'relaxed fit development'
+- Not concerned with it being perfect  
+- Will act as a loose digital garden, so it needs to be flexible
+- Wanted a place to dump some info and make things publicly available
+- [Inspired by Scott Tolinski and Wes Bos via Syntax.fm](https://syntax.fm/show/249/hasty-treat-scott-s-new-personal-website)
 
 ### My progress 
 (will add picture and write-ups later... probably)
 - Created a Gatsby site using Gatsby starter
-- Created custom react componenets for templating blog entries and pages
+- Created custom react components for templating blog entries and pages
 - Added tags for filtering posts
 - Added Tailwind CSS 
 - Added Google Analytics
@@ -24,8 +27,8 @@ I wanted a place to dump some info, make things publicly available and experimen
 - Using Flexbox
 - Created markdown blog entry templating 
 
-### My goals
-- Built a React webapp for recommending movies and TV 
+### Future goals
+- Build a React webapp for recommending movies and TV 
 - Properly style and propogate the blog, tags, portfolio entries on the landing page
 - Actually 'finish' the blog posts I'm making for future reference
 - Improve the style of the site once I'm happy with the functionality

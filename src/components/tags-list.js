@@ -36,11 +36,11 @@ const Tags = () => {
    <div>
       <ul>
         {group.map(tag => (
-          <li key={tag.fieldValue}>
             <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-              {tag.fieldValue} ({tag.totalCount})
-            </Link>
+          <li class="bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2" key={tag.fieldValue}>
+              #{tag.fieldValue} ({tag.totalCount})
           </li>
+            </Link>
         ))}
       </ul>
     </div>

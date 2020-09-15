@@ -21,10 +21,16 @@ const BlogList = ({
       <div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-2" role="alert">
         <p class = "text-sm" > Please excuse the brutal minimalism - this page hasn 't been styled yet. Getting the functionality right first.</p>
       </div>
-      <Link to ="/tags/">Tags</Link>
-      <Tags/>
-      
-      <div style={{ marginTop: `1.45rem` }}>{Posts}</div>
+      <div class="flex">
+        < div class = "flex-auto px-4 py-2 m-2 items-center bg-gray-400" >
+          <Link to ="/tags/"><h2 class="px-4 py-2 m-2">Tags</h2></Link>
+          <Tags/>
+        </div>
+        <div class="flex-auto text-center items-center px-4 py-2 m-2">
+          <h2 class="px-4 py-2 m-2">Recent posts</h2>
+          {Posts}
+        </div>
+      </div>
     </Layout>
     )
 }
