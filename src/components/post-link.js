@@ -6,7 +6,7 @@ import Img from "gatsby-image"
 // TODO: fix tags display
 
 const PostLink = ({ post }) => (
-    <div class="max-w-sm rounded overflow-hidden shadow-lg">
+    <div class="max-w-xl rounded overflow-hidden shadow-lg p-3 flex-auto">
           <Link to={post.frontmatter.path}>
           <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
           <div class="px-6 py-4">
