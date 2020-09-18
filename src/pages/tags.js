@@ -27,17 +27,7 @@ const TagsPage = ({
           <p class = "text-sm" > Please excuse the brutal minimalism - this page hasn 't been styled yet. Getting the functionality right first.</p>
         </div>        
         <Tags/>
-        {/* <div>
-      <ul>
-        {group.map(tag => (
-          <li key={tag.fieldValue}>
-            <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-              {tag.fieldValue} ({tag.totalCount})
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </div> */}
+     
     </Layout>
 )
 
