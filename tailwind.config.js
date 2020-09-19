@@ -1,6 +1,6 @@
 module.exports = {
   corePlugins: {
-    listStyleType: false
+    // listStyleType: disc
   },
   purge: [],
   theme: {

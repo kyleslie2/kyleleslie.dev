@@ -46,12 +46,12 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-postcss`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: "UA-172938494-1",
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+    //     trackingId: "UA-172938494-1",
+    //   },
+    // },
   ],
 }
