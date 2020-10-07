@@ -2,13 +2,15 @@ import React from "react"
 import { Link } from "gatsby"
 import Img from "gatsby-image"
 
-// The preview box for blog posts
+// The preview box for blog posts (on blog page, not index)
 // TODO: fix tags display
 
 const PostLink = ({ post }) => (
     <div class="max-w-xl rounded overflow-hidden shadow-lg p-3 flex-auto">
           <Link to={post.frontmatter.path}>
-          <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
+          < div class = "blog-card-top" >
+            <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
+          </div>
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">
                 {post.frontmatter.title} ({post.frontmatter.date})
