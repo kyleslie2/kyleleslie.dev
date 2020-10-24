@@ -16,8 +16,8 @@ export default function Template({
     <SEO title={frontmatter.topic} />
       <div className="blog-post-container">
         <div className="blog-post">
-          <h1>{frontmatter.title}</h1>
-          <p>{frontmatter.description}<br/>Last updated: <i>{frontmatter.date}</i></p>
+          <h1 class="font-sans">{frontmatter.title}</h1>
+          <p class="font-sans">{frontmatter.description}<br/>Last updated: <i>{frontmatter.date}</i></p>
           <Img fluid={featuredImgFluid} />
           <br/>
           <div

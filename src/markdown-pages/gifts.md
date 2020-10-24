@@ -1,6 +1,6 @@
 ---
 path: "/giftideas"
-date: "2020-05-09"
+date: "2020-10-08"
 title: "Gift ideas for Kyle"
 topic: "Gifts"
 description: "Safe purchases and things I always love getting!"
@@ -27,17 +27,19 @@ tags: [personal,list,reference]
 ## Notable life events &#129300;
 **Things going on in my life that might inspire gift ideas!** _(updated May 9, 2020)_
 - ~~Big trip to London + Scotland (August 2020)...~~
+- Big ol' pandemic stuff (work from home)
 - New dog
 - Settling into desk job/ web dev/ public servant work
 
 ---
 
 ## Miscellaneous &#9989;
-**Random things currently on my personal "To Buy" list**_(updated: May 9, 2020)_
+**Random things currently on my personal "To Buy" list**_(updated: October 9, 2020)_
 
 - New winter gloves (not too bulky). Need to be able to take out bus pass/ doggy bags and use phone.
-- New raincoat (same as alicia's) todo: <insert link to raincoat>
-- A steamer so I don't have to iron! (I don't know anything about steamers, so I guess just one that's relatively compact??)
+- New raincoat
+- Gym equipment (for at home)
+- New pants (see below)
 - [A Synology NAS](https://www.synology.com/en-global/products/series/home)
 
 

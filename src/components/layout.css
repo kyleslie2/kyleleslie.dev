@@ -1,3 +1,12 @@
+@font-face {
+  font-family: Roboto;
+  font-weight: 400;
+  font-style: normal;
+  src: 'src/fonts/Roboto/';
+  font-display: swap;
+}
+
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -185,7 +194,7 @@ textarea {
   font: inherit;
 }
 html {
-  font: 112.5%/1.45em georgia, serif;
+  font: 112.5%/1.45em Roboto, sans-serif;
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -200,7 +209,7 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  font-family: Roboto, sans-serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -633,7 +642,7 @@ pre tt:after {
 
 .card-img-top img{
   width: 100%;
-  max-height: 8rem;
+  max-height: 7rem;
   /* object-fit: cover; */
   height:8rem;
 }
@@ -647,3 +656,4 @@ pre tt:after {
   color:#2B6CB0;
   text-decoration: underline;
 }
+

@@ -1,9 +1,9 @@
 ---
 path: "/note-management"
 date: "2020-07-17"
-title: "My Note-Management Solution"
-topic: "Note Management"
-description: "How I manage my notes/ my knowledge-base and keep it all synced, backed-up and (mostly) open-source!"
+title: "My Note-management solution"
+topic: "Note management"
+description: "How I manage my notes and keep it all synced, backed-up and (mostly) open-source."
 featuredImage: ../images/note-management/note-management.png
 posttype: "blog"
 tags: [reference, recommendations, workflow]
