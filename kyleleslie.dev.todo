@@ -1,17 +1,25 @@
 kyleleslie.dev
 First:
 - style landing page preview sections (blog, tags, about me, portfolio)
-✔ style tags list @done(20-09-18 21:32)
-- fix card styling
+- fix li bullet on tags results page (after clicking a tag)
+- fix card styling (css for title/ description etc)
+- replace gatsby png
+- 
 
 Later:
 - add simple tv and movie pages
-- add content to mysite post
+
+Blogposts to polish:
+- mysite
+- note-management (90%)
+- 
 
 Done:
 make entire blog preview clickable link (not just title)
 ✔ lists, recommendations, TIL, projects, personal, portfolio, workflow @done(20-09-13 11:11)
 ✔ add google analytics @done(20-09-13 11:11)
+✔ style tags list @done(20-09-18 21:32)
+
 
 Brainstorm:
 - keep navbar on top at all times for desktop view? (shirk and shadow or no?)

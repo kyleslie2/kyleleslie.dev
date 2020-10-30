@@ -1,7 +1,7 @@
 ---
 path: "/note-management"
 date: "2020-07-17"
-title: "My Note-management solution"
+title: "My note-management solution"
 topic: "Note management"
 description: "How I manage my notes and keep it all synced, backed-up and (mostly) open-source."
 featuredImage: ../images/note-management/note-management.png

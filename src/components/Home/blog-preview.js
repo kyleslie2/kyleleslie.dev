@@ -7,7 +7,7 @@ import PreviewCard from "./blog-preview-card"
 // import SEO from "../components/seo"
 
 
-
+// Blog preview component for home page (3 most recent)
 
 const BlogPreview = () => {
   const data = useStaticQuery(graphql`

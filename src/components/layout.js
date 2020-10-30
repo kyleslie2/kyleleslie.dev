@@ -11,7 +11,7 @@ import { useStaticQuery, graphql, Link } from "gatsby"
 
 
 // import Header from "./header"
-import Footer from "./footer"
+import Footer from "./Footer/footer"
 import "./layout.css"
 import Navbar from "./Navbar/Navbar"
 
@@ -46,8 +46,8 @@ const Layout = ({ children }) => {
         style={{
           margin: `0 auto`,
           marginBottom: '0',
-          // maxWidth: 1160,
-          maxWidth: 1000,
+          maxWidth: 1160,
+          // maxWidth: 1000,
           padding: `0 1.0875rem 1.45rem`,
           minHeight: `100vh`,
         }}

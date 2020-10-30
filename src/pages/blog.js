@@ -2,8 +2,8 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PostLink from "../components/post-link"
-import Tags from "../components/tags-list"
+import PostLink from "../components/Blog/post-link"
+import Tags from "../components/Tags/tags-list"
 
 const BlogList = ({
   data: {

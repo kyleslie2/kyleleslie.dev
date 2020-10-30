@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Tags from "../components/tags-list"
+import Tags from "../components/Tags/tags-list"
 
 
 //Could just import tags-list component here. Would be a staticquery instead of pagequery though (might not matter)

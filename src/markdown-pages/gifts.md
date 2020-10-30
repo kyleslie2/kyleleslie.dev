@@ -28,7 +28,7 @@ tags: [personal,list,reference]
 **Things going on in my life that might inspire gift ideas!** _(updated May 9, 2020)_
 - ~~Big trip to London + Scotland (August 2020)...~~
 - Big ol' pandemic stuff (work from home)
-- New dog
+- Eugene
 - Settling into desk job/ web dev/ public servant work
 
 ---
@@ -36,11 +36,12 @@ tags: [personal,list,reference]
 ## Miscellaneous &#9989;
 **Random things currently on my personal "To Buy" list**_(updated: October 9, 2020)_
 
+- Gym equipment (for at home). Modular Dumbells!
+- New pants [see below](#clothing-)
+- [A Synology NAS](https://www.synology.com/en-global/products/series/home)
 - New winter gloves (not too bulky). Need to be able to take out bus pass/ doggy bags and use phone.
 - New raincoat
-- Gym equipment (for at home)
-- New pants (see below)
-- [A Synology NAS](https://www.synology.com/en-global/products/series/home)
+
 
 
 ---
@@ -86,7 +87,6 @@ tags: [personal,list,reference]
 - Something I haven't tried before
 
 **Alcohol:**  
-_(Help us slowly stock our liquor cabinet!)_  
 - Any nice bottle of liquor we probably don't have (Hint: we don't have much haha)
 - Fun beer I might not have tried (Note: any type is fine *except sour beer*)
 - Wine: Always fun to try a new bottle together!
