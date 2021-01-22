@@ -34,7 +34,6 @@ Since beginning to work from home as a developer, I've wanted a clean, efficient
 
 ### Desktop Editor
 **[Zettlr](https://www.zettlr.com/)**
-(insert picture)
   
 Lightweight feature-rich app with search + tons of customization that won't mess me up if it disappears tomorrow. I can also edit markdown files straight from directory with other applications (like VSCode) if necessary. 
 
@@ -56,37 +55,36 @@ Lightweight feature-rich app with search + tons of customization that won't mess
 
 ### Mobile Editor
 **[Markor](https://gsantner.net/project/markor.html)**
-(insert picture)
 
-### Syncing: [Syncthing](https://syncthing.net/)
-(insert image of syncthing)
+### Syncing: 
+**[Syncthing](https://syncthing.net/)**
 
 Simple open-source syncing tool that securely and quickly shared folders between configured machines via P2P. 
 
-**Pros:**
-✅ Cross-platform (all computers and phone)
-✅ Open source
-✅ Secure
-✅ P2P (between my devices)
-✅ Fast
-✅ Bi-directional
-✅ Lightweight
+**Pros:**  
+✅ Cross-platform (all computers and phone)  
+✅ Open source  
+✅ Secure  
+✅ P2P (between my devices)  
+✅ Fast  
+✅ Bi-directional  
+✅ Lightweight  
 
 **Cons:**
 - Sometimes difficult to untangle syncing errors
 - Takes a little bit of setting up
 
 ### Backup 
-**Git + [Gitwatch](https://github.com/gitwatch/gitwatch) + Automator**
+**Git + [Gitwatch](https://github.com/gitwatch/gitwatch) + Automator**  
 Using git for backup storage/ versioning. Using [gitwatch](https://github.com/gitwatch/gitwatch) for monitoring and automatic committing.  Using automator to run a bash script on startup that initializes gitwatch (on my mac).
 
 **Pros:**  
-✅ Open source (not tied to Zettlr)
-✅ Automatic with gitwatch running to monitor changes
+✅ Open source (not tied to Zettlr)  
+✅ Automatic with gitwatch running to monitor changes  
 
 **Cons:**  
 
-**Script to start gitwatch on boot and kill ScriptMonitor (to make it lightweight)**
+**Script to start gitwatch on boot and kill ScriptMonitor (to make it lightweight)**  
 ```
 #!/bin/bash
 export PATH=/usr/local/bin:$PATH
@@ -101,6 +99,7 @@ gitwatch -r origin /Users/Kyle/git/notes/ & sleep 60; killall ScriptMonitor
 #### Useful links
 > -  automatically starting gitwatch on boot [https://medium.com/@fahimhossain_16989/adding-startup-scripts-to-launch-daemon-on-mac-os-x-sierra-10-12-6-7e0318c74de1](https://medium.com/@fahimhossain_16989/adding-startup-scripts-to-launch-daemon-on-mac-os-x-sierra-10-12-6-7e0318c74de1)
 >- [Hacker News discussion on Zettlr](https://news.ycombinator.com/item?id=23723775)
->- Syncthing
+>- [Syncthing](https://syncthing.net/)
+
 
 
