@@ -11,15 +11,15 @@ tags: [technology,personal,recommendations]
 
 ## 📚 Categories
 
->     &nbsp;[macOS](#macos-)  
+>   💻 &nbsp;[macOS](#macos-)  
 >   📲 &nbsp;[Phone](#phone-)  
 >   🖥 &nbsp;[Desk setup](#desk-setup-)  
 >   📺 &nbsp;[Media Server](#media-server-)  
->   💻 &nbsp;[Editors + Terminal](#editors-+-terminal-)  
+>   📄 &nbsp;[Editors + Terminal](#editors-+-terminal-)  
 >   📡 &nbsp;[Networking](#networking-)  
 
 ---
-## macOS 
+## macOS 💻
 Applications I use and like on my Macbook. Some are Apple only, lots are cross-platform.  I try to stay away from Apple services like iCloud.  
 
 [Check out this playlist for other application suggestions](https://youtube.com/playlist?list=PLD8VmuL7qc7iC3ssaPqt_oqgQw_OOSH3L)
@@ -157,7 +157,7 @@ I have [Plex Media server](https://www.plex.tv/en-ca/media-server-downloads/) in
 
 ---
 
-## Editors + Terminal ⚙
+## Editors + Terminal 📄
 What I use to code:  
 - [iTerm2](https://iterm2.com/): best terminal for mac
 - [VScode](https://code.visualstudio.com/):  Most versatile text-editor/ IDE available.
