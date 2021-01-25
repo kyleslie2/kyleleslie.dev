@@ -1,27 +1,31 @@
 kyleleslie.dev
 First:
-- Blog page: change margins + put tags up top for mobile
-- Home page: add hero or picture or something about you
-- add separate layout componenets for home and for blogs
+    Blog page: 
+    - change margins + put tags up top for mobile
+    Home page: add hero or picture or something about you:
+    - add separate layout componenets for home and for blogs
     - add website notification banner to component and only for home page
-- style landing page preview sections (blog, tags, about me, portfolio)
-- fix li bullet on tags results page (after clicking a tag)
-- replace tag shortcut with potfolio shortcut in navbar
-- move hamburger menu right a little (like KL placing)
-- fix card styling (css for title/ description etc)
-- Create portfolio page and preview box
-✔ replace gatsby png @done(20-10-30 09:21)
-- Update contact page
-- add links to footer
-- 
+    - style landing page preview sections (blog, tags, about me, portfolio)
+    - fix li bullet on tags results page (after clicking a tag)
+    - replace tag shortcut with potfolio shortcut in navbar
+    - move hamburger menu right a little (like KL placing)
+    - fix card styling (css for title/ description etc)
+    - Create portfolio page and preview box
+    ✔ replace gatsby png @done(20-10-30 09:21)
+    - Update contact page
+    - add links to footer
 
-Later:
-- add simple tv and movie pages
 
-Blogposts to polish:
-- mysite 40%
-- note-management (90%)
-- 
+Blogposts:
+TV shows and movies:
+    - start it
+mysite 40%:
+    - code snippets
+note-management.md (90%):
+    - images
+uses.md:
+    - add windows apps
+    - images
 
 Done:
 make entire blog preview clickable link (not just title)

@@ -178,6 +178,8 @@ My home network setup
 Router can't be near TV or PC so I use a [Powerline adapter](https://www.amazon.ca/Powerline-Network-Adapters/b?ie=UTF8&node=3312820011) for more consistent connection to the Nintendo Switch and the PC. Then I use a little [Ethernet switch](https://www.amazon.ca/TP-Link-TL-SF1005D-5-port-100Mbps-Desktop/dp/B000FNFSPY/ref=sr_1_12?fst=as%3Aoff&qid=1590843592&refinements=p_n_feature_two_browse-bin%3A7322393011&rnid=7322391011&s=electronics&sr=1-12) to split up the powerline connection and give more priority to whichever device I'm currently using.
 
 ---
-
+## Planned additions to this page:
+- Windows only applications
+- pictures of my favourites
 
 
