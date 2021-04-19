@@ -27,9 +27,8 @@ tags: [personal,list,reference]
 ## Notable life events &#129300;
 **Things going on in my life that might inspire gift ideas!** _(updated May 9, 2020)_
 - ~~Big trip to London + Scotland (August 2020)...~~
-- Big ol' pandemic stuff (work from home)
-- Eugene
-- Settling into desk job/ web dev/ public servant work
+- Big ol' pandemic (work from home)
+- Getting old as heck (30...)
 
 ---
 
@@ -39,8 +38,13 @@ tags: [personal,list,reference]
 - Gym equipment (for at home). Modular Dumbells!
 - New pants [see below](#clothing-)
 - [A Synology NAS](https://www.synology.com/en-global/products/series/home)
-- New winter gloves (not too bulky). Need to be able to take out bus pass/ doggy bags and use phone.
 - New raincoat
+- Cable management for my new desk ([something like this and all the related items](https://www.amazon.ca/COOYA-Management-Organizer-Concealer-Improvement/dp/B07VB1ZBVX?ref_=Oct_s9_apbd_omwf_hd_bw_bAbXQ7v&pf_rd_r=KCM9RJSCNNCTMH28RRB8&pf_rd_p=cd060681-b5a6-54f1-b635-4b6348572507&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=9716018011&th=1))
+- High quality power bars with long cables, surge protectors, and lots of outlets (cannot have enough)
+- New wireless keyboard (will link)
+- New wired gamecube controller 
+- A nice microphone for my desktop PC for video calls etc (maybe a microphone arm too)
+- A nice headset with a microphone attached (must be comfy)
 
 
 
@@ -59,7 +63,7 @@ tags: [personal,list,reference]
 - medium + slim fit for button ups
 - medium for t-shirts
 - Dress shirts: Calvin Klein Extreme slim 15, 34, 35 fit well a couple years ago (might be small in neck and shoulders now)
-- Jeans: todo: <insert size of current jeans...>
+- Jeans/ pants: Perfect size (from Le 31 Simons) is Coupe-Stokholm fit 32-34L`
 - Underwear: Boxer-briefs (medium)
 - Sweaters: medium
 

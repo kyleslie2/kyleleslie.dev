@@ -18,7 +18,7 @@ const Navigation = styled.nav`
   border-bottom: 2px solid #33333320;
   margin: 0 auto 0vh auto;
   padding: 0 5vw 0 0;
-  z-index: 2;
+  z-index: 11;
   align-self: left;
 
   @media(max-width: 768px) {

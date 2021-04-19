@@ -11,6 +11,9 @@ tags: [reference, recommendations, workflow]
 
 Since beginning to work from home as a developer, I've wanted a clean, efficient, and reliable way to syncronize my notes and files without relying on specific companies or services (such as dropbox, evernote, or google drive/docs). This proved to be a little harder than I expected. Getting perfect syncronization across macOS, windows, linux and android was difficult, and staying away from 3rd-party syncing services was also a pain. I knew I wanted to keep my notes in a markdown format so I started doing some research and found a few useful forum threads that helped me out. Below is a solution that solves 90% of my use-case. The last piece of my puzzle is managing my ToDo list which currently is still best managed via Evernote for me. 
 
+**Update:**  
+I'm using [Orgzly](http://www.orgzly.com/) for todos now. A little bit of a learning curve for creating custom searches, but very powerful and has all the useful standard todo features.
+
 
 
 ### Things that are important to me:
@@ -33,8 +36,7 @@ Since beginning to work from home as a developer, I've wanted a clean, efficient
 
 
 ### Desktop Editor
-**[Zettlr](https://www.zettlr.com/)**
-  
+**[Zettlr](https://www.zettlr.com/)**  
 Lightweight feature-rich app with search + tons of customization that won't mess me up if it disappears tomorrow. I can also edit markdown files straight from directory with other applications (like VSCode) if necessary. 
 
 **Pros:**  
@@ -100,6 +102,8 @@ gitwatch -r origin /Users/Kyle/git/notes/ & sleep 60; killall ScriptMonitor
 > -  automatically starting gitwatch on boot [https://medium.com/@fahimhossain_16989/adding-startup-scripts-to-launch-daemon-on-mac-os-x-sierra-10-12-6-7e0318c74de1](https://medium.com/@fahimhossain_16989/adding-startup-scripts-to-launch-daemon-on-mac-os-x-sierra-10-12-6-7e0318c74de1)
 >- [Hacker News discussion on Zettlr](https://news.ycombinator.com/item?id=23723775)
 >- [Syncthing](https://syncthing.net/)
+>- [How to export Evernote notes to markdown](http://www.markwk.com/migrate-evernote-plaintext.html#:~:text=Inside%20of%20Bear%20under%20FILE,box%20for%20%E2%80%9CExport%20attachments.%E2%80%9D)
+
 
 
 
