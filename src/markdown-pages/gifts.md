@@ -1,6 +1,6 @@
 ---
 path: "/giftideas"
-date: "2020-10-08"
+date: "2021-04-15"
 title: "Gift ideas for Kyle"
 topic: "Gifts"
 description: "Safe purchases and things I always love getting!"
@@ -33,7 +33,7 @@ tags: [personal,list,reference]
 ---
 
 ## Miscellaneous &#9989;
-**Random things currently on my personal "To Buy" list**_(updated: October 9, 2020)_
+**Random things currently on my personal "To Buy" list**_(updated: April 15, 2020)_
 
 - Gym equipment (for at home). Modular Dumbells!
 - New pants [see below](#clothing-)
