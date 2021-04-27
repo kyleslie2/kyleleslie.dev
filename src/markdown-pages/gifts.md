@@ -28,7 +28,7 @@ tags: [personal,list,reference]
 **Things going on in my life that might inspire gift ideas!** _(updated May 9, 2020)_
 - ~~Big trip to London + Scotland (August 2020)...~~
 - Big ol' pandemic (work from home)
-- Getting old as heck (30...)
+- Getting old as heck
 
 ---
 
