@@ -29,7 +29,7 @@ tags: [personal,list,reference]
 - ~~Big trip to London + Scotland (August 2020)...~~
 - Big ol' pandemic (work from home)
 - Getting old as heck
-
+- Marriage and home ownership I guess
 ---
 
 ## Miscellaneous &#9989;
@@ -37,12 +37,13 @@ tags: [personal,list,reference]
 
 - Gym equipment (for at home). Modular Dumbells!
 - New pants [see below](#clothing-)
-- [A Synology NAS](https://www.synology.com/en-global/products/series/home)
+- [4k Receiver for my dream media server](https://www.amazon.ca/Yamaha-Bluetooth-Receiver-Component-RXV385/dp/B07CQ13BT4?th=1)
 - New raincoat
+- [My current dream backpack](https://ca.peakdesign.com/collections/everyday-bags/products/everyday-backpack?variant=29743300771884)
 - Cable management for my new desk ([something like this and all the related items](https://www.amazon.ca/COOYA-Management-Organizer-Concealer-Improvement/dp/B07VB1ZBVX?ref_=Oct_s9_apbd_omwf_hd_bw_bAbXQ7v&pf_rd_r=KCM9RJSCNNCTMH28RRB8&pf_rd_p=cd060681-b5a6-54f1-b635-4b6348572507&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=9716018011&th=1))
 - High quality power bars with long cables, surge protectors, and lots of outlets (cannot have enough)
 - New wireless keyboard (will link)
-- New wired gamecube controller 
+- New wired gamecube controller (needs to be legit nintendo controller)
 - A nice microphone for my desktop PC for video calls etc (maybe a microphone arm too)
 - A nice headset with a microphone attached (must be comfy)
 
@@ -60,7 +61,7 @@ tags: [personal,list,reference]
 - Comfortable
 
 **Sizes:**
-- medium + slim fit for button ups
+- medium + slim fit for button ups (size 15 neck)
 - medium for t-shirts
 - Dress shirts: Calvin Klein Extreme slim 15, 34, 35 fit well a couple years ago (might be small in neck and shoulders now)
 - Jeans/ pants: Perfect size (from Le 31 Simons) is Coupe-Stokholm fit 32-34L`
@@ -69,7 +70,7 @@ tags: [personal,list,reference]
 
 **Do need:** 
 - Nice, comfortable button-ups and dressy sweaters for work 
-  - Ex: Frank and Oak medium slim fit flannel dress-shirt (dark green) todo: <insert link to picture?>
+  - Ex: Frank and Oak medium slim fit flannel dress-shirt
 - Nice socks for work
 - Nice boxer-briefs (medium)
 - Nice pants: khakis or jeans (_Note: harder to buy for me_)
@@ -102,6 +103,7 @@ _(always like trying new, tasty hot-sauces)_
 
 **Restaurants:**
 - Restaurant gift-cards for brunch spots or dinner places are fun! Alicia and I love to go out to eat!
+- Especially places in Carleton Place!
 
 ---
 
@@ -115,6 +117,7 @@ _(always like trying new, tasty hot-sauces)_
 - Neutral colours (no orange or pink please haha)
 
 **Examples of brands I like:**
+- [Peak Design (my current favourite)](https://ca.peakdesign.com/collections/everyday-bags/products/everyday-backpack?variant=29743300771884)
 - [Bellroy](https://bellroy.com/)  
 - [InCase](https://www.incase.com/products/bags)
 
@@ -122,7 +125,7 @@ _(always like trying new, tasty hot-sauces)_
 
 ## Tech &#128190;
 **Tech gadgets and accessories I would love to get but don't _need_**
-- [A Synology NAS](https://www.synology.com/en-global/products/series/home)
+- [A small PC for a media server]()
 - [Rasperry Pi 4](https://www.buyapi.ca/raspberry-pi-4-information/)
   * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
 - External SSD
