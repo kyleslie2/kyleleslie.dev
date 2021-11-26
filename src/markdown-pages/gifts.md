@@ -25,7 +25,7 @@ tags: [personal,list,reference]
 ---
 
 ## Notable life events &#129300;
-**Things going on in my life that might inspire gift ideas!** _(updated May 9, 2020)_
+**Things going on in my life that might inspire gift ideas!** _(updated Nov 25, 2021)_
 - ~~Big trip to London + Scotland (August 2020)...~~
 - Big ol' pandemic (work from home)
 - Getting old as heck
@@ -33,18 +33,20 @@ tags: [personal,list,reference]
 ---
 
 ## Miscellaneous &#9989;
-**Random things currently on my personal "To Buy" list**_(updated: April 15, 2020)_
+**Random things currently on my personal "To Buy" list**_(updated: Nov 25, 2021)_
+- [Unifi Protect Video doorbell](https://ca.store.ui.com/collections/unifi-protect)
+- [Unifi Protect Video surveillance cameras](https://ca.store.ui.com/collections/unifi-protect)
+- [A nice microphone for my desktop PC for video calls etc (maybe a microphone arm too)](https://www.amazon.ca/Blue-Microphones-Yeti-Microphone-Blackout/dp/B00N1YPXW2/ref=sr_1_3?keywords=blue+yeti&qid=1637890122&s=electronics&sr=1-3)
 
 - Gym equipment (for at home). Modular Dumbells!
-- New pants [see below](#clothing-)
 - [4k Receiver for my dream media server](https://www.amazon.ca/Yamaha-Bluetooth-Receiver-Component-RXV385/dp/B07CQ13BT4?th=1)
 - New raincoat
 - [My current dream backpack](https://ca.peakdesign.com/collections/everyday-bags/products/everyday-backpack?variant=29743300771884)
 - Cable management for my new desk ([something like this and all the related items](https://www.amazon.ca/COOYA-Management-Organizer-Concealer-Improvement/dp/B07VB1ZBVX?ref_=Oct_s9_apbd_omwf_hd_bw_bAbXQ7v&pf_rd_r=KCM9RJSCNNCTMH28RRB8&pf_rd_p=cd060681-b5a6-54f1-b635-4b6348572507&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=9716018011&th=1))
-- High quality power bars with long cables, surge protectors, and lots of outlets (cannot have enough)
+
 - New wireless keyboard (will link)
 - New wired gamecube controller (needs to be legit nintendo controller)
-- A nice microphone for my desktop PC for video calls etc (maybe a microphone arm too)
+
 - A nice headset with a microphone attached (must be comfy)
 
 
