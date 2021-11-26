@@ -46,7 +46,6 @@ tags: [personal,list,reference]
 
 - New wireless keyboard (will link)
 - New wired gamecube controller (needs to be legit nintendo controller)
-
 - A nice headset with a microphone attached (must be comfy)
 
 
