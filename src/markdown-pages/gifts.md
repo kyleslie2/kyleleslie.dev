@@ -1,6 +1,6 @@
 ---
 path: "/giftideas"
-date: "2021-04-15"
+date: "2021-11-27"
 title: "Gift ideas for Kyle"
 topic: "Gifts"
 description: "Safe purchases and things I always love getting!"
@@ -14,7 +14,7 @@ tags: [personal,list,reference]
 ## &#x1F381; Categories
 
 >   &#129300; [Notable life events](#notable-life-events-)  
->   &#9989; [Miscellaneous](#miscellaneous-)  
+>   &#9989; [Top of the list!](#top-of-the-list-)  
 >   &#128084; [Clothing](#clothing-)  
 >   &#9749; [Food and Drink](#food-and-drink-)  
 >   &#128092; [Bags](#bags-)  
@@ -26,17 +26,18 @@ tags: [personal,list,reference]
 
 ## Notable life events &#129300;
 **Things going on in my life that might inspire gift ideas!** _(updated Nov 25, 2021)_
-- ~~Big trip to London + Scotland (August 2020)...~~
 - Big ol' pandemic (work from home)
 - Getting old as heck
 - Marriage and home ownership I guess
 ---
 
-## Miscellaneous &#9989;
+## Top of the list &#9989;
 **Random things currently on my personal "To Buy" list**_(updated: Nov 25, 2021)_
 - [Unifi Protect Video doorbell](https://ca.store.ui.com/collections/unifi-protect)
 - [Unifi Protect Video surveillance cameras](https://ca.store.ui.com/collections/unifi-protect)
 - [A nice microphone for my desktop PC for video calls etc (maybe a microphone arm too)](https://www.amazon.ca/Blue-Microphones-Yeti-Microphone-Blackout/dp/B00N1YPXW2/ref=sr_1_3?keywords=blue+yeti&qid=1637890122&s=electronics&sr=1-3)
+- A tool belt for home renos!
+- Any useful tools/ home reno equipment that you're confident I don't have yet!
 
 - Gym equipment (for at home). Modular Dumbells!
 - [4k Receiver for my dream media server](https://www.amazon.ca/Yamaha-Bluetooth-Receiver-Component-RXV385/dp/B07CQ13BT4?th=1)
