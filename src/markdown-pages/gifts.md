@@ -38,16 +38,15 @@ tags: [personal,list,reference]
 - [A nice microphone for my desktop PC for video calls etc (maybe a microphone arm too)](https://www.amazon.ca/Blue-Microphones-Yeti-Microphone-Blackout/dp/B00N1YPXW2/ref=sr_1_3?keywords=blue+yeti&qid=1637890122&s=electronics&sr=1-3)
 - A tool belt for home renos!
 - Any useful tools/ home reno equipment that you're confident I don't have yet!
-
+- Solo Stove accessories! We have the Bonfire version. [Specifically the shelter and shield (and maybe lid) so it's easier to deal with at the end of the night.](https://ca.solostove.com/accessories/shield/)
 - Gym equipment (for at home). Modular Dumbells!
 - [4k Receiver for my dream media server](https://www.amazon.ca/Yamaha-Bluetooth-Receiver-Component-RXV385/dp/B07CQ13BT4?th=1)
-- New raincoat
+- New raincoat (one that's waterproof and fashionable. Consult Alicia)
 - [My current dream backpack](https://ca.peakdesign.com/collections/everyday-bags/products/everyday-backpack?variant=29743300771884)
 - Cable management for my new desk ([something like this and all the related items](https://www.amazon.ca/COOYA-Management-Organizer-Concealer-Improvement/dp/B07VB1ZBVX?ref_=Oct_s9_apbd_omwf_hd_bw_bAbXQ7v&pf_rd_r=KCM9RJSCNNCTMH28RRB8&pf_rd_p=cd060681-b5a6-54f1-b635-4b6348572507&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=9716018011&th=1))
 
-- New wireless keyboard (will link)
+<!-- - New wireless keyboard (will link) -->
 - New wired gamecube controller (needs to be legit nintendo controller)
-- A nice headset with a microphone attached (must be comfy)
 
 
 
