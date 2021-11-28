@@ -28,7 +28,9 @@ tags: [personal,list,reference]
 **Things going on in my life that might inspire gift ideas!** _(updated Nov 25, 2021)_
 - Big ol' pandemic (work from home)
 - Getting old as heck
-- Marriage and home ownership I guess
+- Marriage and home ownership I guess  
+
+
 ---
 
 ## Top of the list &#9989;
