@@ -26,7 +26,7 @@ tags: [personal,list,reference]
 
 ## Notable life events &#129300;
 **Things going on in my life that might inspire gift ideas!** _(updated Nov 25, 2021)_
-- Big ol' pandemic (work from home)
+- Big ol' pandemic (work from home/ home office!)
 - Getting old as heck
 - Marriage and home ownership I guess  
 
