@@ -58,7 +58,7 @@ Lightweight feature-rich app with search + tons of customization that won't mess
 ### Mobile Editor
 **[Markor](https://gsantner.net/project/markor.html)**
 
-**Update:** now using Obsidian 
+**Update:** now using [Obsidian]() 
 
 ### Syncing: 
 **[Syncthing](https://syncthing.net/)**
