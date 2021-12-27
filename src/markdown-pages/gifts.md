@@ -1,6 +1,6 @@
 ---
 path: "/giftideas"
-date: "2021-11-27"
+date: "2021-12-27"
 title: "Gift ideas for Kyle"
 topic: "Gifts"
 description: "Safe purchases and things I always love getting!"
