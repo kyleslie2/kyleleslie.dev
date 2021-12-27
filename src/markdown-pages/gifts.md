@@ -49,7 +49,6 @@ tags: [personal,list,reference]
 - Cable management for my new desk ([something like this and all the related items](https://www.amazon.ca/COOYA-Management-Organizer-Concealer-Improvement/dp/B07VB1ZBVX?ref_=Oct_s9_apbd_omwf_hd_bw_bAbXQ7v&pf_rd_r=KCM9RJSCNNCTMH28RRB8&pf_rd_p=cd060681-b5a6-54f1-b635-4b6348572507&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=9716018011&th=1))
 
 <!-- - New wireless keyboard (will link) -->
-- New wired gamecube controller (needs to be legit nintendo controller)
 
 
 
