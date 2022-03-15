@@ -37,12 +37,11 @@ tags: [personal,list,reference]
 **Random things currently on my personal "To Buy" list**_(updated: Nov 25, 2021)_
 - [Unifi Protect Video doorbell](https://ca.store.ui.com/collections/unifi-protect)
 - [Unifi Protect Video surveillance cameras](https://ca.store.ui.com/collections/unifi-protect)
-- [A nice microphone for my desktop PC for video calls etc (maybe a microphone arm too)](https://www.amazon.ca/Blue-Microphones-Yeti-Microphone-Blackout/dp/B00N1YPXW2/ref=sr_1_3?keywords=blue+yeti&qid=1637890122&s=electronics&sr=1-3)
+- [A GPU for my home server. This will allow me to stream my plex library to friends easily.](https://www.bestbuy.ca/en-ca/product/lenovo-quadro-p400-graphic-card-2gb-gddr5/11473022?cmp=seo-11473022&cmp=knc-s-71700000081505649&gclid=Cj0KCQjwz7uRBhDRARIsAFqjulkKB8_yFJ8LrVEpHQeOyow5KNFdsI87hN0nwRHVvl48DWA1gzM6V64aAm_GEALw_wcB&gclsrc=aw.ds) 
 - A tool belt for home renos!
 - Any useful tools/ home reno equipment that you're confident I don't have yet!
 - Solo Stove accessories! We have the Bonfire version. [Specifically the shelter and shield (and maybe lid) so it's easier to deal with at the end of the night.](https://ca.solostove.com/accessories/shield/)
 - Nicer immersion coffee brewer (like a chemex.) Up to Alicia's design tastes
-- Gym equipment (for at home). Modular Dumbells! (nevermind)
 - [4k Receiver for my dream media server](https://www.amazon.ca/Yamaha-Bluetooth-Receiver-Component-RXV385/dp/B07CQ13BT4?th=1)
 - New raincoat (one that's waterproof and fashionable. Consult Alicia)
 - [My current dream backpack](https://ca.peakdesign.com/collections/everyday-bags/products/everyday-backpack?variant=29743300771884)
