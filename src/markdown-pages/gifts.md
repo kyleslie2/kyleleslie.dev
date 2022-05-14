@@ -146,6 +146,7 @@ _(always like trying new, tasty hot-sauces)_
 
 **Treats:**
 - All treats are good  
+- Chicken hearts or dried rabbit parts are his favourite
 
 **Misc:**
 - Clothing (indoor or outdoor), petsmart/ dog store gift-cards 
