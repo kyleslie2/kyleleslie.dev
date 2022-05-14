@@ -126,9 +126,7 @@ _(always like trying new, tasty hot-sauces)_
 **Tech gadgets and accessories I would love to get but don't _need_**
 - [Rasperry Pi 4](https://www.buyapi.ca/raspberry-pi-4-information/)
   * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
-- External SSD
-  * Can always use more storage! Especially as I improve and expand our media server + at home backups on the network
-  * 4TB NAS drives are the best! They'll say NAS on them
+- 4TB NAS drives are the best! They'll say NAS on them (can always use more storage for our media server and home backups)
 
 --- 
 
