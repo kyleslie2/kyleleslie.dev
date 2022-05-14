@@ -124,12 +124,11 @@ _(always like trying new, tasty hot-sauces)_
 
 ## Tech &#128190;
 **Tech gadgets and accessories I would love to get but don't _need_**
-- [A small PC for a media server]()
 - [Rasperry Pi 4](https://www.buyapi.ca/raspberry-pi-4-information/)
   * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
 - External SSD
   * Can always use more storage! Especially as I improve and expand our media server + at home backups on the network
-  * anything over 1TB (1000GB) and with usb3 or 3.1 is great!
+  * anything over 1TB (1000GB) and with usb3 or 3.1 is great
 
 --- 
 
