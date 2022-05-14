@@ -128,7 +128,7 @@ _(always like trying new, tasty hot-sauces)_
   * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
 - External SSD
   * Can always use more storage! Especially as I improve and expand our media server + at home backups on the network
-  * anything over 1TB (1000GB) and with usb3 or 3.1 is great
+  * 4TB NAS drives are the best! They'll say NAS on them
 
 --- 
 
