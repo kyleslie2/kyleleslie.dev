@@ -37,8 +37,6 @@ tags: [personal,list,reference]
 **Random things currently on my personal "To Buy" list**_(updated: Nov 25, 2021)_
 - [Unifi Protect Video doorbell](https://ca.store.ui.com/collections/unifi-protect)
 - [Unifi Protect Video surveillance cameras](https://ca.store.ui.com/collections/unifi-protect)
-
-- A tool belt for home renos!
 - Any useful tools/ home reno equipment that you're confident I don't have yet!
 - Solo Stove accessories! We have the Bonfire version. [Specifically the shelter and shield (and maybe lid) so it's easier to deal with at the end of the night.](https://ca.solostove.com/accessories/shield/)
 - Nicer immersion coffee brewer (like a chemex.) Up to Alicia's design tastes
