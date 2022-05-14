@@ -39,7 +39,6 @@ tags: [personal,list,reference]
 - [Unifi Protect Video surveillance cameras](https://ca.store.ui.com/collections/unifi-protect)
 - Any useful tools/ home reno equipment that you're confident I don't have yet!
 - Solo Stove accessories! We have the Bonfire version. [Specifically the shelter and shield (and maybe lid) so it's easier to deal with at the end of the night.](https://ca.solostove.com/accessories/shield/)
-- Nicer immersion coffee brewer (like a chemex.) Up to Alicia's design tastes
 - [4k Receiver for my dream media server](https://www.amazon.ca/Yamaha-Bluetooth-Receiver-Component-RXV385/dp/B07CQ13BT4?th=1)
 - New raincoat (one that's waterproof and fashionable. Consult Alicia)
 - [My current dream backpack](https://ca.peakdesign.com/collections/everyday-bags/products/everyday-backpack?variant=29743300771884)
