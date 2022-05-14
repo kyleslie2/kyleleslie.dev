@@ -37,7 +37,7 @@ tags: [personal,list,reference]
 **Random things currently on my personal "To Buy" list**_(updated: Nov 25, 2021)_
 - [Unifi Protect Video doorbell](https://ca.store.ui.com/collections/unifi-protect)
 - [Unifi Protect Video surveillance cameras](https://ca.store.ui.com/collections/unifi-protect)
-- [A GPU for my home server. This will allow me to stream my plex library to friends easily.](https://www.bestbuy.ca/en-ca/product/lenovo-quadro-p400-graphic-card-2gb-gddr5/11473022?cmp=seo-11473022&cmp=knc-s-71700000081505649&gclid=Cj0KCQjwz7uRBhDRARIsAFqjulkKB8_yFJ8LrVEpHQeOyow5KNFdsI87hN0nwRHVvl48DWA1gzM6V64aAm_GEALw_wcB&gclsrc=aw.ds) 
+
 - A tool belt for home renos!
 - Any useful tools/ home reno equipment that you're confident I don't have yet!
 - Solo Stove accessories! We have the Bonfire version. [Specifically the shelter and shield (and maybe lid) so it's easier to deal with at the end of the night.](https://ca.solostove.com/accessories/shield/)
